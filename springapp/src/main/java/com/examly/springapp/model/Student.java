@@ -5,7 +5,7 @@ public class Student {
     private String firstName;
     private String lastName;
 
-    // Getter and Setter methods for studentId, firstName, and lastName
+    // Getters and setters
 
     public int getStudentId() {
         return studentId;
